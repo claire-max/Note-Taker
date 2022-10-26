@@ -8,7 +8,6 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [How to Contribute](#how-to-contribute)
   * [Tests](#tests)
   * [Questions](#questions)
 
