@@ -29,7 +29,7 @@
 
   ## Deployed Link
 
-  ![Heroku Deployed Link](https://notetaker1233.herokuapp.com/)
+  [Heroku Deployed Link](https://notetaker1233.herokuapp.com/)
 
   ## Usage
   The Note Taker app is used to write and save notes. When opening the Note Taker app, the user will be presented with a landing page then click on the Get Started button. Enter your note's and text in the designated fields. As you finish writing your note, click the save icon in the nav bar. If you want to delete a note click the red trash can to the right of the saved note.
