@@ -7,8 +7,8 @@
   * [License](#license)
   * [Description](#description)
   * [Installation](#installation)
+  * [Deployed Link](#deployedlink)
   * [Usage](#usage)
-  * [Tests](#tests)
   * [Questions](#questions)
 
   ## License
@@ -16,21 +16,22 @@
   [ISC] (https://opensource.org/licenses/ISC)
 
   ## Description
-    Your challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+    Your challenge is to create an application called Note Taker that can be used to write and save notes.
+     This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-    The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
-   
+    The application’s front end has already been created. It's your job to build the back end, connect the two, 
+    and then deploy the entire application to Heroku.
 
   ## Installation
   1. Download the starter code from GitHub.
-  2. Install dependencies using "npm install".  
-  3. Now you are ready to use!
+  2. Install dependencies using "npm install" 
+  3. Now you are ready to use on Heroku!
+
+  ## Deployed Link
 
   ## Usage
-
- 
-  ## Tests
-
+  The Note Taker app is used to write and save notes. When opening the Note Taker app, the user will be presented with a landing page then click on the Get Started button. Enter your note's and text in the designated fields. As you finish writing your note click the save icon in the nav bar. 
+  ![Note-Taker](./public/assets/NoteTaker.gif )
 
   ## Questions?
   ### Reach me here: 
